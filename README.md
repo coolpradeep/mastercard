@@ -4,11 +4,11 @@ This Repository is created for the development of Infrastructure with the help o
 
 Pre-requisites:
 
-Terraform version : V12
-Python 3.8
-Aws-Cli
-Visual studio
-Github
+1. Terraform version : V12
+2. Python 3.8
+3. Aws-Cli
+4. Visual studio
+5. Github
 
 Terraform commands:
 
